@@ -1,4 +1,4 @@
-### Welcome to my GitHub
+### Hi! I'm Fernando Valdivia!
 
 <!--
 **FernandoValdivia/FernandoValdivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/56139106/120082724-22fda480-c08a-11eb-8668-6236e4c85eb1.png)
