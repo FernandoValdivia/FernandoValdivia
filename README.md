@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
-
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+blog is website definition in read file, just a place holder for all the urls that I have used.
+[blog]: https://eresh-zealous.medium.com/
 
 ![image](https://user-images.githubusercontent.com/56139106/120082724-22fda480-c08a-11eb-8668-6236e4c85eb1.png)
