@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" 
+     href="https://www.instagram.com/luis.valdivia.m01/" target="_blank" />
 
 
 ![image](https://user-images.githubusercontent.com/56139106/120082724-22fda480-c08a-11eb-8668-6236e4c85eb1.png)
