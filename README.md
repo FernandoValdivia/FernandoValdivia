@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="left" alt="Eresh's GitHub Stats" src="https://<--Your vercel instance for stats-->/api?username=ereshzealous&show_icons=true&hide_border=true" />
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="" />]
 
