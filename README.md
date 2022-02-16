@@ -3,8 +3,8 @@
 <p><em>Software Developer at <a href="https://www.tecsup.edu.pe">Tecsup</a></br>
 </em></p>
 
-[![Twitter: FernandoValdivia](https://img.shields.io/twitter/follow/FernandoValdivia?style=social)](https://twitter.com/Fernand96579251)
-[![Linkedin: luis-fernando-valdivia](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-valdivia/)](https://www.linkedin.com/in/luis-fernando-valdivia/)
+[![Twitter: Fernand96579251](https://img.shields.io/twitter/follow/Fernand96579251?style=social)](https://twitter.com/Fernand96579251)
+[![Linkedin: luis-fernando-valdivia](https://img.shields.io/badge/-luis-fernando-valdivia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-valdivia/)](https://www.linkedin.com/in/luis-fernando-valdivia/)
 [![GitHub FernandoValdivia](https://img.shields.io/github/followers/FernandoValdivia?label=follow&style=social)](https://github.com/FernandoValdivia)
 
 
