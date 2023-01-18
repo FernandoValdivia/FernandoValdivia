@@ -16,11 +16,11 @@ const fer = {
   tools: [Laravel, React, Node],
   languages: ["english", "spanish"],
   hobbies: {
-                        music: ["rock","folk","metal","indie","pop","reggae"],
-                        movies: "sci-fi",
-                        instrument: "acoustic guitar",
-                        sport: ["skateboarding","calisthenics"]
-                      },
+              music: ["rock","folk","metal","indie","pop","reggae"],
+              movies: "sci-fi",
+              instrument: "acoustic guitar",
+              sport: ["skateboarding","calisthenics"]
+            },
  phrase: "Happiness is not the goal, but the way to achieve it."
 }
 ```
