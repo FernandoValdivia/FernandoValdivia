@@ -12,14 +12,14 @@
 
 ```javascript
 const fer = {
-  code: [Javascript, HTML, CSS, PHP, Python, Java],
+  code: [Javascript, PHP, Python, Java, C#, Swift, HTML, CSS],
   tools: [Laravel, React, Node],
   languages: ["english", "spanish"],
   hobbies: {
                         music: ["rock","folk","metal","indie","pop","reggae"],
                         movies: "sci-fi",
                         instrument: "acoustic guitar",
-                        sport: "skateboarding"
+                        sport: ["skateboarding","calisthenics"]
                       },
  phrase: "Happiness is not the goal, but the way to achieve it."
 }
