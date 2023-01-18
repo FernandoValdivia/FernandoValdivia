@@ -13,7 +13,7 @@
 ```javascript
 const fer = {
   code: [Javascript, HTML, CSS, PHP, Python, Java],
-  tools: [React, Node],
+  tools: [Laravel, React, Node],
   languages: ["english", "spanish"],
   hobbies: {
                         music: ["rock","folk","metal","indie","pop","reggae"],
