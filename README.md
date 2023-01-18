@@ -1,5 +1,5 @@
 <h2> Hi, I'm Fernando Valdivia!</h2>
-<img align='right' src="https://media2.giphy.com/media/cLxGtujriMD1kPzwt1/giphy.gif?cid=ecf05e47izjee7oki5kseneij5fmpagk5jmqltjgqvqgt7n7&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://media2.giphy.com/media/cLxGtujriMD1kPzwt1/giphy.gif?cid=ecf05e47izjee7oki5kseneij5fmpagk5jmqltjgqvqgt7n7&rid=giphy.gif&ct=s](https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="230">
 <p><em>Software Developer at <a href="https://www.tecsup.edu.pe">Tecsup</a></br>
 </em></p>
 
